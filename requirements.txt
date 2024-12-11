@@ -1,0 +1,9 @@
+streamlit
+spacy
+docx2txt
+PyPDF2
+scikit-learn
+pandas
+numpy
+en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.5.0/en_core_web_lg-3.5.0-py3-none-any.whl
+python-docx
