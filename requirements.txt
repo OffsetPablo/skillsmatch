@@ -41,7 +41,6 @@ pydantic_core==2.27.1
 pydeck==0.9.1
 Pygments==2.18.0
 PyPDF2==3.0.1
-pyspark==3.5.3
 python-dateutil==2.9.0.post0
 pytz==2024.2
 referencing==0.35.1
@@ -60,7 +59,6 @@ spacy-loggers==1.0.5
 srsly==2.4.8
 streamlit==1.40.2
 tenacity==9.0.0
-thinc==8.3.2
 threadpoolctl==3.5.0
 toml==0.10.2
 tornado==6.4.2
